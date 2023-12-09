@@ -1,20 +1,21 @@
 ![I am a Frontend Developer](https://raw.githubusercontent.com/asmaulhossain45/asmaulhossain45/main/assets/CoverPhoto.png)
 
-### Hi there 👋, Asmaul Hossain
-
-#### I am a Frontend Developer
-
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: / REACT / JS / Tailwind / HTML / CSS
+# 🌱Contact Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://job-nest-asmaul.web.app)
+
+# 🌱Technical Skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,mongodb,nodejs,express&theme=dark)](https://skillicons.dev)
 
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Next.js
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asmaulhossain45) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asmaulhossain45/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/asmaulhossain45) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asmaulhossain45/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/asmaulhossain45)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=asmaulhossain45)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaulhossain45)](https://github.com/anuraghazra/github-readme-stats)
+# 🌱Github Stats
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=asmaulhossain45)
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
