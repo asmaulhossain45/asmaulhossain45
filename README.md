@@ -1,4 +1,4 @@
-![I am a Frontend Developer](https://raw.githubusercontent.com/asmaulhossain45/asmaulhossain45/main/assets/12063795_4884785.jpg)
+![I am a Frontend Developer](https://raw.githubusercontent.com/asmaulhossain45/asmaulhossain45/main/assets/CoverPhoto.png)
 
 ### Hi there 👋, Asmaul Hossain
 
