@@ -1,63 +1,38 @@
-![I am a Frontend Developer](https://raw.githubusercontent.com/asmaulhossain45/asmaulhossain45/main/assets/CoverPhoto.png)
+# Hi there! 👋 I'm [Your Name]
 
-</br>
+### 🚀 Web Developer | Digital Marketing Expert | Tech Enthusiast 
 
-# 🙎‍♂️ About Me
+Welcome to my GitHub profile! I'm passionate about building modern, high-performance websites and applications. I specialize in **React, Next.js, Tailwind CSS, Node.js, and Digital Marketing** to create seamless and engaging user experiences.
 
-- 🔭 I’m currently working on: **Fast Food Site**
-- 🤝 I’m looking to collaborate on: **Frontend development**
-- 🌱 I’m currently learning: **Next.js, Material UI**
-- 📫 How to reach me: **asmaulhosen45@gmail.com**
-- 💬 Ask me about: **Frontend Technologies**
+## 🔥 About Me
+- 💻 Full-stack Developer with expertise in **MERN Stack**
+- 🌍 Founder of **NxtFlare** – Bringing Ideas to Life!
+- 🚀 Passionate about **SEO & Digital Growth**
+- 📷 Aspiring **Natural Photographer**
+- 🎨 Learning **Three.js** for interactive web experiences
 
-</br>
+## ⚡ Technologies & Tools
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=flat&logo=framer&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
 
-# 🔗Social Links
+## 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+</p>
 
-<div align="center">
+## 🌎 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
 
-<a href="https://twitter.com/asmaulhossain45" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/asmaulhossain45" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/asmaulhossain45" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/asmaulhossain45" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-</div>
-
-</br>
-
-# 🖥️Technical Skills
-
-<div align="center">
-
-![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,mongodb,nodejs,express&theme=dark)
-
-</div>
-
-</br>
-
-# ⚡Github Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asmaulhossain45&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-</br>
-
-# ❄️GitHub Profile Summery
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmaulhossain45&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmaulhossain45&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asmaulhossain45&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asmaulhossain45&theme=blueberry&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmaulhossain45&theme=blueberry)
-
-</div>
+🚀 **Let's build something amazing together!** 🔥
