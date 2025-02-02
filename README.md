@@ -23,12 +23,6 @@ Welcome to my GitHub profile! I'm passionate about building modern, high-perform
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=flat&logo=framer&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
 
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
-</p>
-
 ## 🌎 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
@@ -36,3 +30,21 @@ Welcome to my GitHub profile! I'm passionate about building modern, high-perform
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
 
 🚀 **Let's build something amazing together!** 🔥
+
+## 📈 GitHub Stats
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asmaulhossain45&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+</br>
+
+# ❄️GitHub Profile Summery
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmaulhossain45&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmaulhossain45&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asmaulhossain45&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asmaulhossain45&theme=blueberry&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmaulhossain45&theme=blueberry)
+
+</div>
