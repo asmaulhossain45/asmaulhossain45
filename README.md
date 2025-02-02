@@ -1,63 +1,87 @@
-![I am a Frontend Developer](https://raw.githubusercontent.com/asmaulhossain45/asmaulhossain45/main/assets/CoverPhoto.png)
+<h1 align="center">Hey there! I'm Asmaul Hossain 🚀</h1>
+<h3 align="center">Full-Stack Developer | Digital Marketing & SEO Expert</h3>
 
-</br>
+<p align="center">
+  Passionate about crafting modern, high-performance websites and applications. 
+  Specializing in <strong>React, Next.js, Tailwind CSS, Node.js, and Digital Marketing</strong> 
+  to create seamless and engaging digital experiences.
+</p>
 
-# 🙎‍♂️ About Me
+<br/>
 
-- 🔭 I’m currently working on: **Fast Food Site**
-- 🤝 I’m looking to collaborate on: **Frontend development**
-- 🌱 I’m currently learning: **Next.js, Material UI**
-- 📫 How to reach me: **asmaulhosen45@gmail.com**
-- 💬 Ask me about: **Frontend Technologies**
+## 🔥 About Me  
 
-</br>
+💻 **Full-Stack Developer** with expertise in **MERN Stack**
+🌍 **Founder of [NxtFlare](https://nxtflare.com/)** – Bringing Ideas to Life!  
+🚀 Passionate about **Programming & Scalable Web Applications**  
+📷 **Aspiring Natural Photographer** – Capturing the beauty of the world!  
+🎨 **Exploring Three.js** for immersive web experiences  
 
-# 🔗Social Links
+<br/>
+
+## 🛠️ Tech Stack & Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SEO-%2300C853.svg?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Marketing-%23E4405F.svg?style=for-the-badge&logo=googleads&logoColor=white" />
+</p>
+
+<br/>
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="mailto:asmaul.hossain1128@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://nxtflare.com/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/asmaulhossain1128" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/asmaulhossain1128">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/asmaulhossain1128">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/asmaulhossain1128">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+## 🚀 Let's Build Something Great!  
+
+🔹 Always eager to **learn, create, and collaborate** on exciting projects!  
+💡 Open to **freelance opportunities**, **partnerships**, and **open-source contributions**.  
+🎯 Passionate about **turning ideas into reality** through code & creativity.  
+
+📬 **Feel free to reach out—Let's create something amazing!** 🚀  
+
+<br/>
+
+## 📊 GitHub Stats & Profile Summary  
 
 <div align="center">
-
-<a href="https://twitter.com/asmaulhossain45" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/asmaulhossain45" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/asmaulhossain45" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/asmaulhossain45" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-</div>
-
-</br>
-
-# 🖥️Technical Skills
-
-<div align="center">
-
-![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,mongodb,nodejs,express&theme=dark)
-
-</div>
-
-</br>
-
-# ⚡Github Streak Stats
-
-<div align="center">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asmaulhossain45&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
-
 </div>
-
-</br>
-
-# ❄️GitHub Profile Summery
-
 <div align="center">
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmaulhossain45&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmaulhossain45&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asmaulhossain45&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asmaulhossain45&theme=blueberry&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmaulhossain45&theme=blueberry)
-
 </div>
