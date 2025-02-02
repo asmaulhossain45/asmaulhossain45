@@ -11,10 +11,10 @@
 
 ## 🔥 About Me  
 
-💻 **Full-Stack Developer** with expertise in **MERN Stack** 
-🌍 **Founder of [NxtFlare](https://nxtflare.com/)** – Bringing Ideas to Life!  
-🚀 Passionate about **Programming & Scalable Web Applications**  
-📷 **Aspiring Natural Photographer** – Capturing the beauty of the world!  
+💻 **Full-Stack Developer** with expertise in **MERN Stack** <br/>
+🌍 **Founder of [NxtFlare](https://nxtflare.com/)** – Bringing Ideas to Life!  <br/>
+🚀 Passionate about **Programming & Scalable Web Applications**  <br/>
+📷 **Aspiring Natural Photographer** – Capturing the beauty of the world!  <br/>
 🎨 **Exploring Three.js** for immersive web experiences  
 
 <br/>
