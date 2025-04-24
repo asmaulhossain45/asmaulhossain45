@@ -1,6 +1,4 @@
 <h1 align="center">Hello! I'm Asmaul Hossain 🧑‍💻</h1>
-<h3 align="center">Web Developer</h3>
-
 <p align="center">
   Passionate about crafting modern, high-performance websites and applications. 
   Specializing in <strong>React, Next.js, Tailwind CSS, Node.js, and Digital Marketing</strong> 
