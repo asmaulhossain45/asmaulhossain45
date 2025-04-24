@@ -78,12 +78,12 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asmaulhossain1128&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asmaulhossain45&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmaulhossain1128&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmaulhossain1128&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asmaulhossain1128&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asmaulhossain1128&theme=blueberry&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmaulhossain1128&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmaulhossain45&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmaulhossain45&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asmaulhossain45&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asmaulhossain45&theme=blueberry&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmaulhossain45&theme=blueberry)
 
 </div>
