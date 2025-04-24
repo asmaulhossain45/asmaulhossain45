@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Asmaul Hossain 🚀</h1>
-<h3 align="center">Full-Stack Developer | Digital Marketing & SEO Expert</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   Passionate about crafting modern, high-performance websites and applications. 
